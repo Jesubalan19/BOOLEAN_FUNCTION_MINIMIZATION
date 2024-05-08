@@ -1,4 +1,4 @@
-# BOOLEAN_FUNCTION_MINIMIZATION
+### EX-02 <p align="center"><b>BOOLEAN_FUNCTION_MINIMIZATION    </b>   
 
 **AIM:**
 
